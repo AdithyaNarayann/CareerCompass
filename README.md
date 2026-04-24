@@ -8,7 +8,7 @@ It’s a simple web app that helps you:
 * Take a quick quiz to figure out what actually interests you (other than scrolling Instagram).
 * See what skills you’re missing and how to actually build them.
 * Get learning roadmaps so you don’t just watch random YouTube tutorials forever.
-* (Optional) Upload your resume and find out why HR keeps ghosting you.
+* Upload your resume and find out why HR keeps ghosting you.
 
 ---
 
